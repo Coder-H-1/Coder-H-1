@@ -7,9 +7,8 @@
   - Currently learning Machine Learning and Reinforcement learning using Python and ChatGPT.
   - will work on Embedded system after completing.
 
-# Learning to code from https://W3schools.com and YouTube.
-
-w3schools.com profile -> https://www.w3profile.com/CoderH03/
+  - Learning to code from https://W3schools.com and YouTube.
+  - w3schools.com profile -> https://www.w3profile.com/CoderH03/
 
 
 <!--

@@ -1,11 +1,11 @@
-## Hi there 👋
+### Hi there 👋
 
 # About
-  I am _Harshit_. My hobby is learning about programming, Robots, and Electronics.
+  ##I am _Harshit_. My hobby is learning about programming, Robots, and Electronics.
 
-  - I code in Python. I also code in Rust (not often).   
-  - Currently learning Machine Learning and Reinforcement learning using Python and ChatGPT 
-  - will work on Embedded system after completing.  
+  "- I code in Python. I also code in Rust (not often)."   
+  "- Currently learning Machine Learning and Reinforcement learning using Python and ChatGPT." 
+  "- will work on Embedded system after completing."
 
 # Learning to code from https://W3schools.com and YouTube.
 
